@@ -5,6 +5,6 @@
 
 # Installation
 
-First go to [Download](https://github.com/dark00shadow/shooting/releases/latest) then download Windows or Linux depending on the System your using(sorry no MacOs)
+First go to [Download](https://github.com/dark00shadow/shooting/releases/latest) then download Windows.zip or Linux.tar.gz depending on the System your using(sorry no MacOs)
 
 
