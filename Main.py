@@ -40,7 +40,8 @@ def update(dt):
         BulletDirection = PlayerDirection
         Bullet.visible = True
         shoot = False
-
+    if SpacePressed == True and not KeyHandler[key.SPACE]:
+        SpacePressed = False
 
     # Player flip
     if PlayerDirection == 'up': Player.image = pyglet.image.load('textures/player/Player_direction0.png')
